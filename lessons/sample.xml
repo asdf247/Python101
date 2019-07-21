@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ 
+<holidays year="2017">
+    <holiday type="other">
+        <date>Jan 1</date>
+        <name>New Year</name>
+    </holiday>
+    <holiday type="public">
+        <date>Oct 2</date>
+        <name>Gandhi Jayanti</name>
+    </holiday>
+</holidays> 
