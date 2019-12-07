@@ -55,6 +55,7 @@ def wordcount_counter(words):
     return Counter(words)
 
 def wordcount_dd(words):
+    '''Wordcount using default dict data structure'''
     word_count = defaultdict(int)
 
     for word in words:
